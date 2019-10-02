@@ -1,2 +1,4 @@
 # hellow-world
-my first repository
+Happy birthday to China seventy. 
+Now I am very happy!
+我是中国人！
